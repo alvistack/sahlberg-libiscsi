@@ -22,7 +22,7 @@ libiscsi_la_LDFLAGS = \
 	-no-undefined -export-symbols ${srcdir}/libiscsi.syms
 
 if HAVE_LINUX_ISER
-libiscsi_la_LDFLAGS += -libverbs -lrdmacm
+libiscsi_la_LDFLAGS += -libverbs -lrdmacm -lpthread
 endif
 
 libiscsi_la_CPPFLAGS = -I${srcdir}/../include -I$(srcdir)/include \
