@@ -1,0 +1,4 @@
+libiscsi source: file-without-copyright-information
+libiscsi source: no-debian-changes
+libiscsi source: not-binnmuable-any-depends-any
+libiscsi source: weak-library-dev-dependency
