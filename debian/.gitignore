@@ -1,0 +1,9 @@
+*.substvars
+*debhelper*
+.debhelper
+autoreconf.*
+files
+libiscsi-bin
+libiscsi-dev
+libiscsi10
+tmp

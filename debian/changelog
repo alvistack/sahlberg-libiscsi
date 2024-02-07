@@ -1,0 +1,5 @@
+libiscsi (100:1.20.0-1) UNRELEASED; urgency=medium
+
+  * https://github.com/sahlberg/libiscsi/releases/tag/1.20.0
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Sat, 06 Apr 2024 12:06:10 +0800
